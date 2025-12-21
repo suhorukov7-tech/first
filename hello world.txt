@@ -1,2 +1,2 @@
 print "hello world!";
-print nl1
+print nl12
