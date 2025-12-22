@@ -1,2 +1,2 @@
-print "hello world!";
-print nl12
+print "hello world!;";
+print nl12;
