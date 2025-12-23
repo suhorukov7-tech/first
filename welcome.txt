@@ -1,5 +1,6 @@
 print (welcome)
 
 print (qqq)
+printLN
 
 let`s go
