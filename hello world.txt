@@ -1,5 +1,5 @@
 print "hello world!;";
 print nl12;
 print ("new")
-hello dear friend
+(hello dear friend)
 
